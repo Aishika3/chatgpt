@@ -1,0 +1,5 @@
+streamlit==1.8.0
+torch==1.10.0
+transformers==4.11.3
+streamlit_chat==0.3.2
+numpy==1.21.5
